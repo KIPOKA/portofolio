@@ -1,7 +1,20 @@
 .home_bg{
- background-image: url(/Users/lkkatabe/Desktop/portofolio/asset/picture1.jpeg);
+ background-image: url(/Users/lkkatabe/Desktop/portofolio/src/img/picture1.jpeg);
     background-color: #010101;
     background-position: 50%;
     background-repeat: none;
     background-size: cover;
+}
+li .nav__items{
+    font-size: 18px;
+    padding-bottom: 15px;
+}
+.home__content{
+    padding: 100px 0px;
+}
+h1 .home__text{
+    font-size: 48px;
+    font-weight: 400;
+    letter-spacing: 3px;
+    color: rgba(189, 201, 216, 75)!important;
 }

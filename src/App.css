@@ -112,6 +112,12 @@ strong{
 input{
   color: rgba(198,201,216,.75);
 }
+.logo img{
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  
+}
 button.btn {
   font-size: 18px;
   font-weight: 500;

@@ -140,7 +140,7 @@ button.btn {
   margin-bottom: 15px;
 }
 button.about.btn.pointer:hover {
-  background: #fff;
+  background: rgb(255, 255, 255);
   color: #000!important;
 }
 /* RESPONSIVE */

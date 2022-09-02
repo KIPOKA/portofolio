@@ -1,0 +1,35 @@
+h1.heading{
+    font-size: 50px;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+p.heading.p__color{
+    margin-bottom: 0;
+    text-align: center;
+    line-height: 1.2 ;
+}
+.service__box{
+    border-radius:10px;
+    width: 100%;
+    background-color: #191919;
+    padding: 55px;
+    transition: .4s ease;
+} 
+.icon{
+    font-size: 45px;
+    font-weight: 400;
+    margin-bottom: 23px;
+    display: inline-flex;
+    color: #30db20;
+}
+p.service__text.p__color{
+    margin-bottom: 0;
+
+}
+h1.service__text{
+    font-size: 19px;
+    font-family: Poppins, sans-serif;
+    padding: 10px 0px;
+}

@@ -29,8 +29,16 @@ function Home(){
                             <div className="home__meta pz__10">
                                 <h1 className="home__text"> Welcome to my world of adventurer</h1>
                             </div>
-
-                        
+                            <h2 className="home_text pz__10">
+                                Hi,<br/>
+                                I am Katabe Kipoka 
+                            </h2>
+                            <h3 className="home_text sweet pz__10"> 
+                                Java, Software  Developer
+                            </h3>
+                            <h4 className="home_text pz__10"> 
+                                Based in South Africa
+                            </h4>
                         </div>
 
                 </div>

@@ -10,11 +10,30 @@ li .nav__items{
     padding-bottom: 15px;
 }
 .home__content{
-    padding: 100px 0px;
+    padding: 120px 0px;
 }
-h1 .home__text{
-    font-size: 48px;
+h1.home_text{
+    font-size: 25px;
     font-weight: 400;
     letter-spacing: 3px;
     color: rgba(189, 201, 216, 75)!important;
+
+}
+h2.home_text{
+    font-size: 48px;
+    font-weight: 800;
+    letter-spacing: 3px;
+    font-family: Montserrat, sans-serif;
+}
+h3.home_text{
+    font-size: 40px;
+    font-weight: 800;
+    letter-spacing: 3px;
+    font-family: Montserrat, sans-serif;
+}
+h4.home_text{
+    font-size: 40px;
+    font-weight: 800;
+    letter-spacing: 3px;
+    font-family: Montserrat, sans-serif;
 }
